@@ -10,3 +10,8 @@ In this, we will create an AKS cluster and deploy a demo web application on it. 
 7. Configure Ingress resources to route incoming HTTPS traffic to your web application pods. Created the ingress.
 8. Create Kubernetes deployment and service resources for your application. Used demo application Yaml files.
 9. Enable Container insights monitoring for the AKS cluster. - Enabled while creating the AKS cluster via Terraform script.
+
+Steps to run:
+terraform init
+terraform plan
+terraform apply
