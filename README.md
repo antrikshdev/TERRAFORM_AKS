@@ -15,3 +15,7 @@ Steps to run:
 terraform init
 terraform plan
 terraform apply
+
+Also, api_server_access_profile is commented 
+And the backend is commented in providers.tf file.
+In case you want to use an Azure storage account as a backend then feel free to uncomment. The script to create the storage account with the name "createStorageAccount.sh" in the folder, you can run the script before running terraform init.
