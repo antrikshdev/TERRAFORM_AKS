@@ -53,9 +53,9 @@ variable "Ingress_script_path" {
    default = "./setup_ingress.sh"
 }
 /* variable "aks_service_principal_app_id" {
-  default = "b08f38f6-d3e3-41ee-9f87-18d78c4807c5"
+  default = "<>"
 }
 
 variable "aks_service_principal_client_secret" {
-  default = "KG48Q~GE31TDOIWWjPSX8uQPg44CzRstdhASfbO2"
+  default = "K<>"
 } */
