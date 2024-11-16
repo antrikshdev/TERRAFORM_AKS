@@ -8,7 +8,7 @@ terraform {
     }
   }
 /*   backend "azurerm" {
-    subscription_id      = "acef6dd4-ca96-44bd-a2f4-a32161fe4d38"
+    subscription_id      = "<>"
     resource_group_name  = "rg-tfstate-kada"
     storage_account_name = "satfstatekada"
     container_name       = "tfstate"
